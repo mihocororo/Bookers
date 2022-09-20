@@ -1,0 +1,93 @@
+// Place all the styles related to the bookes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.flash{
+  margin-left :30px;
+  text-align :left;
+  color:green;
+}
+
+th{
+  padding:0 20px 20px 0px;
+
+}
+caption{
+  caption-side: bottom;
+}
+
+
+ td{
+   padding:0 10px 10px 0px;
+}
+
+table{
+  border-collapse: collapse;
+  margin:15px;
+
+
+}
+
+tbody{
+  text-align:left;
+  padding:10px;
+}
+
+.new{
+  padding:10px;
+}
+
+
+.box-title{
+    width:40%;
+    font-size: 1.2em;
+    background: red;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    
+    margin: 2em 0;
+  font-weight: bold;
+  border: solid 3px red;
+    
+    
+}
+
+ul{
+  list-style:inside;
+}
+
+.box p {
+    padding: 4px;
+    margin: 0;
+    font-color: white;
+}
+
+.box li {
+  padding: 10px;
+}
+
+
+.show{
+  margin-left:30px;
+  line-height: 4;
+}
+
+.show2{
+  letter-spacing:0.3em;
+  display:flex;
+  margin-left:10px;
+}
+
+.edit{
+   line-height: 2;
+
+}
